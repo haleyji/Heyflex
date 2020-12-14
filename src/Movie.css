@@ -4,3 +4,4 @@ body {background-color: darkgray;}
 .movie-title{font-weight: 400;}
 .movie-year{text-align: right;}
 .movie-summary{overflow: hidden;}
+.movie_poster{margin:0 auto; width: 50%;}

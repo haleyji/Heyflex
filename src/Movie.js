@@ -5,7 +5,7 @@ import './Movie.css';
 const Movie = ({id, year, title, summary, poster}) => {
     return (
         <div className="movie">
-            <img src={poster} alt={title}/>
+            <img src={poster} alt={title} className="movie_poster"/>
             <div className="movie_data">
                 <h3 className="movie_title">{title}</h3>
                 <h5 className="movie_year">{year}</h5>
