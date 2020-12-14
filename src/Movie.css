@@ -1,0 +1,6 @@
+body {background-color: darkgray;}
+.movie{display: block;}
+.moveie-data{display: block; float: left;}
+.movie-title{font-weight: 400;}
+.movie-year{text-align: right;}
+.movie-summary{overflow: hidden;}
